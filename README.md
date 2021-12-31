@@ -1,4 +1,5 @@
-# Mona - Password Manager ### v1.0.2
+# Mona - Password Manager 
+### Mona v1.0.2
 Mona is a powerful password manager which is written on C# Programming Language using .NET 4.7 supported by SQL Local DB 2019. This password manager stands out by having access to a personalized profile that is protected by a strong hashing and encryption system. This password manager can be used to not only protect passwords but also used for file encryption. In addition, the passwords saved on browsers are also retrieved into the application.
 
 ## The following are the operations implemented on Mona,

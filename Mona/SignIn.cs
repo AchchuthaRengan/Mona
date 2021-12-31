@@ -55,7 +55,7 @@ namespace Mona
         {
             try
             {
-               string _correctHash = @"b+Gpx+d2oFEs5eg3hX15aFHh9fwJzwQpcYAmWKwS/53j/PVhn1yphy8s7tGzO5u2xkbfnTy36nxPg3jEEiS1tg==";
+               string _correctHash = @"Your Encrypted USB Device ID + PNP DeviceID Goes Here!";
                 if(_correctHash != "")
                 {
                     if (MessageBox.Show("Awaiting... For USB Authentication", "Access Restricted", MessageBoxButtons.YesNo) == DialogResult.Yes)
